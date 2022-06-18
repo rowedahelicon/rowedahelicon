@@ -8,6 +8,9 @@ I have self-taught myself a myriad of skills pertaining to computers and compute
 
 > "I am of the opinion that my life belongs to the whole community and as long as I live, it is my privilege to do for it whatever I can." – **George Bernard Shaw**
 
+## Skills
+![Code - PHP](https://img.shields.io/badge/Code-PHP-lightgrey)
+
 ## Current focus
 
 My current side-project is a daily planner built around proven motivational and efficiency concepts designed to prevent overwhelming the person using it. Right now, it is for personal use but if I can demonstrate a measurable improvement in my ability to get tasks done in a timely manner, I will see what I can do in terms of allowing others to use it.
