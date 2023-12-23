@@ -1,5 +1,5 @@
 # Hi! I'm Rowdy! (´･ω･`)
-
+![Header](https://www.rowedahelicon.com/assets/images/github_banner.png)
 *Founder / Head Administrator at [Southern Cross Gaming](https://www.scg.wtf)*
 
 Hello, I work as a programmer, illustrator, community manager and occasional public speaker. I currently reside within New England, in the United States.
