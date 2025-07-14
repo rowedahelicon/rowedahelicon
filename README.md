@@ -9,7 +9,7 @@ I have self-taught myself a myriad of skills pertaining to computers and compute
 > "Though my soul may set in darkness, it will rise in perfect light; I have loved the stars too fondly to be fearful of the night​." - **Sarah Williams**
 
 ## Skills
-I have experience with many languages and tools ranging from web design to general programming. This includes but is not limited to **Html and other related web design thgngs, Javascript / Node, PHP, C++, C#, SourcePawn, Lua, Java, JQuery** and more. I'm a quiet Linux nerd, I use Ubuntu on my web server and Debian for my game server. I *have* used Arch, and I have even used Crux. I generally avoid using frameworks when I can help it, I am annoying and like to make things by hand.
+I have experience with many languages and tools ranging from web design to general programming. This includes but is not limited to **Html and other related web design things, Javascript / Node, PHP, C++, C#, SourcePawn, Lua, Java, JQuery** and more. I'm a quiet Linux nerd, I use Ubuntu on my web server and Debian for my game server. I *have* used Arch, and I have even used Crux. I generally avoid using frameworks when I can help it, I am annoying and like to make things by hand.
 
 ## Socials
 - [A directory of my socials can be found here](https://rowdythecrux.dev)
